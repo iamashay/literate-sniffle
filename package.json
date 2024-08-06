@@ -1,0 +1,11 @@
+{
+  "name": "literate-sniffle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
